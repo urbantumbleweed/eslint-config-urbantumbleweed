@@ -1,6 +1,6 @@
 {
-  "name": "@urbantumbleweed/eslint-plugin-urbantumbleweed",
-  "version": "0.1.0",
+  "name": "@urbantumbleweed/eslint-config-urbantumbleweed",
+  "version": "0.0.1",
   "description": "eslint config",
   "main": "index.js",
   "files": [
