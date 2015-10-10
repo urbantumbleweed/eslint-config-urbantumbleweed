@@ -1,0 +1,38 @@
+{
+  "name": "eslint-config-urbantumbleweed",
+  "version": "0.0.1",
+  "description": "eslint config",
+  "main": "index.js",
+  "files": [
+    "LICENCE",
+    "base.eslint.json",
+    "mocha.eslint.json",
+    "es5.eslint.json",
+    "indes.js",
+    "mocha.js",
+    "es5.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urbantumbleweed/eslint-config-urbantumbleweed.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "Stephen Saunders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/urbantumbleweed/eslint-config-urbantumbleweed/issues"
+  },
+  "homepage": "https://github.com/urbantumbleweed/eslint-config-urbantumbleweed#readme",
+  "devDependencies": {
+    "eslint": "^1.6.0",
+    "eslint-plugin-hapi": "^1.2.0",
+    "eslint-plugin-mocha": "^1.0.0",
+    "eslint-plugin-react": "^3.5.1"
+  }
+}

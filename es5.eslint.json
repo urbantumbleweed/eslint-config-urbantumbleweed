@@ -1,0 +1,27 @@
+{
+  "rules": {
+    "semi": [2, "always"],
+    "indent": [2, 2, { "SwitchCase": 1 }],
+    "quotes": [2, "single"],
+    "strict": [2, "global"],
+    "no-console": [1],
+    "linebreak-style": [2, "unix"],
+    "camelcase": 2,
+    "dot-notation": [2, { "allowPattern": "^[a-z]+([\\s_-][a-zA-Z0-9]+)+$" }],
+    "dot-location": [2, "property"],
+    "no-else-return": [2],
+    "array-bracket-spacing": [2, "always", {
+      "singleValue": false,
+      "objectsInArrays": false,
+      "arraysInArrays": false
+    }]
+  },
+  "env": {
+    "node": true,
+    "browser": true
+  },
+  "extends": "eslint:recommended",
+  "plugins": [
+    "hapi"
+  ]
+}
