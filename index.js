@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('./base.eslint.js');
+module.exports = require('./base.eslint.json');
