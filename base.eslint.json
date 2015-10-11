@@ -40,7 +40,6 @@
       "experimentalObjectRestSpread": true
   },
   "plugins": [
-      "react",
-      "hapi"
+      "react"
   ]
 }

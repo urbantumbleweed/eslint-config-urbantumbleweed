@@ -20,8 +20,5 @@
     "node": true,
     "browser": true
   },
-  "extends": "eslint:recommended",
-  "plugins": [
-    "hapi"
-  ]
+  "extends": "eslint:recommended"
 }

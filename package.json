@@ -6,9 +6,11 @@
   "files": [
     "LICENCE",
     "base.eslint.json",
+    "hapi.eslint.json",
     "mocha.eslint.json",
     "es5.eslint.json",
-    "indes.js",
+    "index.js",
+    "hapi.js",
     "mocha.js",
     "es5.js"
   ],
